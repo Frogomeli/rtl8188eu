@@ -1,0 +1,11 @@
+*.o
+*.cmd
+.8188eu.ko.cmd
+.8188eu.mod.o.cmd
+.8188eu.o.cmd
+.tmp_versions/
+8188eu.mod.c
+8188eu.mod.o
+8188eu.o
+Module.symvers
+modules.order
